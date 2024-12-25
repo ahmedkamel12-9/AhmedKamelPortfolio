@@ -20,7 +20,7 @@ I created this project to deepen my understanding of Python programming and prob
    ```bash
    git clone https://github.com/ahmedkamel12-9/AhmedKamelPortfolio.git
 
-   Future Enhancements
+##Future Enhancements
 Adding a Graphical User Interface (GUI).
 Supporting advanced operations (e.g., exponentiation, square roots, etc.).
 Contact
