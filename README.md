@@ -18,4 +18,4 @@ I created this project to deepen my understanding of Python programming and prob
 1. Ensure you have **Python 3.x** installed on your system.
 2. Download or clone this repository:
    ```bash
-   git clone https://github.com/YourUsername/CalculatorProject.git
+   git clone https://github.com/ahmedkamel12-9/AhmedKamelPortfolio.git
