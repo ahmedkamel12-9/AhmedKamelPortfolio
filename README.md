@@ -19,11 +19,3 @@ I created this project to deepen my understanding of Python programming and prob
 2. Download or clone this repository:
    ```bash
    git clone https://github.com/ahmedkamel12-9/AhmedKamelPortfolio.git
-
-##Future Enhancements
-Adding a Graphical User Interface (GUI).
-Supporting advanced operations (e.g., exponentiation, square roots, etc.).
-Contact
-If you have any questions, feel free to reach out:
-
-GitHub: AhmedKamel12-9
